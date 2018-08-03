@@ -7,7 +7,7 @@ package sogrey.android_jni_md5;
 public class JNIUtils {
     // Used to load the 'native-lib' library on application startup.
     static {
-        System.loadLibrary("native-lib");
+        System.loadLibrary("md5Lib");
     }
 
     /**
