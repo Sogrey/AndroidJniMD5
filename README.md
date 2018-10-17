@@ -9,6 +9,8 @@ toc: true
 
 JNI Md5加密生成so文件
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/350009f5e5a048039068cfc29ccbbcda)](https://www.codacy.com/app/Sogrey/AndroidJniMD5?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Sogrey/AndroidJniMD5&amp;utm_campaign=Badge_Grade)
+
 IDE工具:Android Studio
 编译环境:JDK1.8+Android SDK+NDK
 
